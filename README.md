@@ -1,6 +1,8 @@
 # 📊 Netflix Content Insights: SQL Analysis for Business Decisions 🎬  
 
-<img src="img/netflix-intro.gif" width="500" height="400" alt="Netflix Intro GIF">  
+<p align="center">
+  <img src="img/netflix-intro.gif" width="550" height="250" alt="Netflix Intro GIF">
+</p> 
 
 ## 📌 Project Overview  
 This project provides SQL-based business insights derived from the Netflix dataset. The queries analyze content distribution, market trends, audience engagement, and strategic planning for the platform.  
@@ -16,7 +18,7 @@ This project provides SQL-based business insights derived from the Netflix datas
 
 ## 📊 Dataset  
 The dataset used in this project is sourced from Kaggle:  
-🔗 [Netflix Movies and TV Shows Dataset](<YOUR_KAGGLE_DATASET_LINK_HERE>)  
+🔗 [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## 📈 Business Insights Covered  
 1️⃣ **Total Number of Titles Available on Netflix**  
