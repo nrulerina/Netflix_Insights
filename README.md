@@ -1,6 +1,6 @@
 # 📊 Netflix Content Insights: SQL Analysis for Business Decisions 🎬  
 
-![Netflix Intro](https://media.giphy.com/media/S3KoO3Cimz2AxDVhUO/giphy.gif)
+![Netflix Intro](https://tenor.com/bbCc1.gif)  
 
 ## 📌 Project Overview  
 This project provides SQL-based business insights derived from the Netflix dataset. The queries analyze content distribution, market trends, audience engagement, and strategic planning for the platform.  
