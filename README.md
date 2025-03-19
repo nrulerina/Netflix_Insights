@@ -1,6 +1,6 @@
 # 📊 Netflix Content Insights: SQL Analysis for Business Decisions 🎬  
 
-<img src="img/netflix-intro.gif" width="100%" alt="Netflix Intro GIF"> 
+<img src="img/netflix-intro.gif" width="500" height="400" alt="Netflix Intro GIF">  
 
 ## 📌 Project Overview  
 This project provides SQL-based business insights derived from the Netflix dataset. The queries analyze content distribution, market trends, audience engagement, and strategic planning for the platform.  
