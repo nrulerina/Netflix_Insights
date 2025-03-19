@@ -14,7 +14,8 @@ This project provides SQL-based business insights derived from the Netflix datas
 - **SQL Server**  
 
 ## 📂 Files  
-- `netflix_queries.sql` – Contains all SQL queries used in this analysis.  
+- `netflix_queries.sql` – Contains all SQL queries used in this analysis.
+- `netflix_sql_report.pdf` - Contains detailed insights and explanations of the findings.
 
 ## 📊 Dataset  
 The dataset used in this project is sourced from Kaggle:  
@@ -45,5 +46,4 @@ The dataset used in this project is sourced from Kaggle:
 ## 📜 Conclusion  
 These SQL queries provide key business insights into Netflix’s content distribution, audience engagement, and market trends. By leveraging these insights, Netflix can make informed decisions on content acquisition, marketing strategies, and regional expansions.  
 
-📑 **For more details, refer to my [report](your_report_filename.pdf).**  
 
