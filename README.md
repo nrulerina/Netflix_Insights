@@ -1,7 +1,7 @@
 # 📊 Netflix Content Insights: SQL Analysis for Business Decisions 🎬  
 
 <p align="center">
-  <img src="img/netflix-intro.gif" width="550" height="250" alt="Netflix Intro GIF">
+  <img src="img/netflix-intro.gif" width="550" height="260" alt="Netflix Intro GIF">
 </p> 
 
 ## 📌 Project Overview  
@@ -41,4 +41,9 @@ The dataset used in this project is sourced from Kaggle:
 1️⃣8️⃣ **Most Active Directors by Year**  
 1️⃣9️⃣ **Average Number of Titles Added Per Year Per Country**  
 2️⃣0️⃣ **Top 5 Years with the Highest Number of New TV Shows**  
+
+## 📜 Conclusion  
+These SQL queries provide key business insights into Netflix’s content distribution, audience engagement, and market trends. By leveraging these insights, Netflix can make informed decisions on content acquisition, marketing strategies, and regional expansions.  
+
+📑 **For more details, refer to my [report](your_report_filename.pdf).**  
 
